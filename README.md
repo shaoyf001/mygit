@@ -1,24 +1,9 @@
 # yuso
 
-## Project setup
+## Project purpose   项目用途
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+learning 学习
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
