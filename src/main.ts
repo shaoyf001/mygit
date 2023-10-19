@@ -4,12 +4,12 @@ import Antd from "ant-design-vue";
 import App from "./App.vue";
 import "ant-design-vue/dist/reset.css";
 
-createApp(App).use(Antd).mount("#app");
+createApp(App).use(Antd).use(router).mount("#app");
+
 // import Vue from "vue";
 // import Antd from "ant-design-vue";
 // import App from "./App.vue";
-// import "ant-design-vue/dist/antd.css";
-// Vue.config.productionTip = false;
+// import "ant-design-vue/dist/reset.css";
 //
 // Vue.use(Antd);
 //
